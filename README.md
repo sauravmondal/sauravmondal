@@ -2,6 +2,7 @@
 I’m 𝕾𝖆𝖚𝖗𝖆𝖛 𝕸𝖔𝖓𝖉𝖆𝖑
 
 <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="50%">
+-🔶 Check my<a href="https://sauravmondal.github.io/"> CV </a>
 <!--
 **sauravmondal/sauravmondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
