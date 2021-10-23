@@ -1,9 +1,10 @@
-### Hi there 👋
-I’m 𝕾𝖆𝖚𝖗𝖆𝖛 𝕸𝖔𝖓𝖉𝖆𝖑
+<h3 align="center">### Hi there 👋 </h3>
+<p align="center"> I’m 𝕾𝖆𝖚𝖗𝖆𝖛 𝕸𝖔𝖓𝖉𝖆𝖑 </p>
+<hr>
 
-<img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="25%">
+<p align="center"><img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="25%"></p>
 
-<table width="1000px"> 
+<table width="1000px" align="center"> 
   <tr>
   <td width="500px">
       
